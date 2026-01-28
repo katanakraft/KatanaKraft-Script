@@ -6,5 +6,9 @@
   "KS-Vehicleshop": {
      "version": "1.0.0",
      "changelog": "Initial public release"
-  }
+  },
+   "KS-Jobcreator": {
+     "version": "1.0.0",
+     "changelog": "Initial public release"
+  },
 }
