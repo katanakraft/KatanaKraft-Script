@@ -19,4 +19,8 @@
      "version": "1.0.0",
      "changelog": "Initial public release"
   },
+  "KS-Documents": {
+     "version": "1.0.0",
+     "changelog": "Initial public release"
+  },
 }
