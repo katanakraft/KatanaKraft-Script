@@ -1,7 +1,7 @@
 {
   "KS-Bank": {
-    "version": "1.0.0",
-    "changelog": "Initial public release"
+    "version": "1.0.1",
+    "changelog": "Added NPCs for opening the bank, with the option to switch between zones and NPCs. Also added the ability to disable specific cards, so you can keep only the ones you want active."
   },
   "KS-Cardealership": {
      "version": "1.0.1",
